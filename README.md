@@ -1,24 +1,39 @@
 # 👋 欢迎来到我的 GitHub 主页！  
 
-Hi～我是 **浮萍（混子 摸大鱼的小余 混子）** ，在代码与技术的海洋里探索ing 🌊  
+Hi～我是 **浮萍（混子 摸大鱼的小余）** ，在代码与技术的海洋里探索ing 🌊  
 
 <!-- 宝可梦主题图片，可替换为你上传后的实际链接 -->
 ![宝可梦全家福](https://github.com/Duckweed-yhb/Duckweed-yhb/blob/main/pokemon-group.png.jpg)  
 
-
 ## 🚀 关于我  
 - ✨ **日常**：努力学习ing  
-- 🔍 **正在学习**：前端技术栈（HTML 页面结构搭建、CSS 样式设计、JavaScript 交互逻辑、Vue 框架开发），同时学习后端 Python 和 Java，用 Python 做过爬虫开发和数据处理相关实践，希望能把前后端知识结合起来做出有趣的小项目  
-- 🌟 **目标**：用技术沉淀经验，和同好交流成长！  
-- 博客：[这里是我的个人博客](https://duckseedyhb.github.io)
+- 🔍 **正在学习**：  
+  - 前端：HTML 页面结构、CSS 样式设计、JavaScript 交互逻辑、Vue 框架开发  
+  - 后端：Python（爬虫/数据处理）、Java  
+  - 目标：打通前后端，做出有趣的小项目  
+- 🌟 **长期目标**：用技术沉淀经验，和同好交流成长！  
+- 📝 **博客**：[浮萍的技术小站](https://duckseedyhb.github.io)
 
 ## 📊 GitHub 数据看板（动态更新）  
-自动抓取你的贡献数据，看看代码足迹～  
+自动抓取贡献数据，看看我的代码足迹～  
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=Duckweed-yhb&show_icons=true&theme=tokyonight&v=3)](https://github.com/Duckweed-yhb)
-
+<!-- 核心优化：修复统计卡片链接，增加备用CDN，确保显示 -->
+<div align="center">
+  <!-- 主统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Duckweed-yhb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=4" alt="GitHub 统计" width="48%"/>
+  <!-- 最常用语言卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckweed-yhb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" width="48%"/>
+  
+  <!-- 提交 streak 卡片（可选，增加活跃度展示） -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duckweed-yhb&theme=tokyonight&hide_border=true" alt="GitHub 连续提交" width="97%"/>
+</div>
 
 ## 📫 联系我  
-想交流学习、代码问题？欢迎戳：  
-- 🌐 **GitHub**：https://github.com/Duckweed-yhb （直接提 Issue 或讨论 ）  
+想交流学习、讨论代码问题？欢迎戳：  
+- 🌐 **GitHub**：[Duckweed-yhb](https://github.com/Duckweed-yhb)（提 Issue/发起讨论）  
 - 📧 **邮箱**：3071974740@qq.com  
+
+<!-- 底部小装饰（可选） -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duckweed-yhb&label=Profile%20views&color=0e75b6&style=flat" alt="访问量统计"/>
+</p>
