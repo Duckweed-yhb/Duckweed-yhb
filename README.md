@@ -17,14 +17,13 @@ Hi～我是 **浮萍（混子 摸大鱼的小余）** ，在代码与技术的�
 ## 📊 GitHub 数据看板（动态更新）  
 自动抓取贡献数据，看看我的代码足迹～  
 
-<!-- 核心优化：修复统计卡片链接，使用国内备用CDN确保显示 -->
 <div align="center">
-  <!-- 主统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Duckweed-yhb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=4" alt="GitHub 统计" width="48%"/>
-  <!-- 最常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duckweed-yhb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" width="48%"/>
+  <!-- 主统计卡片（国内镜像） -->
+  <img src="https://cn-simple-github-readme-stats.vercel.app/api?username=Duckweed-yhb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=4" alt="GitHub 统计" width="48%"/>
+  <!-- 最常用语言卡片（国内镜像） -->
+  <img src="https://cn-simple-github-readme-stats.vercel.app/api/top-langs/?username=Duckweed-yhb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="最常用语言" width="48%"/>
   
-  <!-- 提交 streak 卡片（可选，增加活跃度展示） -->
+  <!-- 提交 streak 卡片（国内镜像） -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duckweed-yhb&theme=tokyonight&hide_border=true" alt="GitHub 连续提交" width="97%"/>
 </div>
 
