@@ -1,9 +1,9 @@
 # 👋 欢迎来到我的 GitHub 主页！  
 
-Hi～我是 **浮萍（混子）** ，在代码与技术的海洋里探索ing 🌊  
+Hi～我是 **浮萍（混子 摸大鱼的小余 混子）** ，在代码与技术的海洋里探索ing 🌊  
 
 <!-- 宝可梦主题图片，可替换为你上传后的实际链接 -->
-![宝可梦全家福](https://github.com/DUCKSEEDYHB/DUCKSEEDYHB/blob/main/pokemon-group.png.jpg)  
+![宝可梦全家福](https://github.com/Duckweed-yhb/Duckweed-yhb/blob/main/pokemon-group.png.jpg)  
 
 
 ## 🚀 关于我  
@@ -15,10 +15,10 @@ Hi～我是 **浮萍（混子）** ，在代码与技术的海洋里探索ing �
 ## 📊 GitHub 数据看板（动态更新）  
 自动抓取你的贡献数据，看看代码足迹～  
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=DUCKSEEDYHB&show_icons=true&theme=tokyonight&v=3)](https://github.com/DUCKSEEDYHB)
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=Duckweed-yhb&show_icons=true&theme=tokyonight&v=3)](https://github.com/Duckweed-yhb)
 
 
 ## 📫 联系我  
 想交流学习、代码问题？欢迎戳：  
-- 🌐 **GitHub**：https://github.com/DUCKSEEDYHB （直接提 Issue 或讨论 ）  
+- 🌐 **GitHub**：https://github.com/Duckweed-yhb （直接提 Issue 或讨论 ）  
 - 📧 **邮箱**：3071974740@qq.com  
